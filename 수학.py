@@ -4,3 +4,5 @@ if int (a) != 30:
 	print("바보")
 else:
 	print('정상입니다.')
+print('수고하셨습니다.')
+print('2018년 3월 10일 ')
